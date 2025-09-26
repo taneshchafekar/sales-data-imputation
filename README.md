@@ -107,6 +107,8 @@ SELECT
 FROM cte
 LEFT JOIN sales ON sales.dt = cte.dt;
 
+
+📤 Output Preview
 Date        | Sales
 ------------|------
 2025-01-01  | 61
